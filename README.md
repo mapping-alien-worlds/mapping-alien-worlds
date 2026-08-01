@@ -74,7 +74,7 @@ python simulations/uv_plane_sim.py
 
 ## 🤝 Contributing
 
-We welcome astronomers, ML researchers, and space systems engineers. Open an issue or start a discussion — see `CONTRIBUTING.md` (coming soon).
+We welcome astronomers, ML researchers, and space systems engineers. Open an issue or start a discussion — see `CONTRIBUTING.md` 
 
 ## 📄 License
 
